@@ -13,9 +13,9 @@
     <artifactId>zheng-demo-rpc-service</artifactId>
     <version>${project.parent.version}</version>
 
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+    <!--<properties>-->
+        <!--<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>-->
+    <!--</properties>-->
 
     <dependencies>
         <dependency>
